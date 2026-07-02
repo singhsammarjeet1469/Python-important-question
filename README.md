@@ -2,7 +2,7 @@
 
 A collection of beginner Python programs created while learning Python.
 
-## 📂 Programs Included
+##  Programs Included
 
 ### 1. Greatest of Four Numbers
 - Takes four numbers as input.
@@ -39,12 +39,12 @@ If any keyword is found, the program prints **"This is spam."** Otherwise, it pr
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 - Python 3.x
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sammarjeet Singh**
